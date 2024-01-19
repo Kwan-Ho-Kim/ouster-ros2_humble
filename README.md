@@ -1,9 +1,9 @@
 # ouster-ros2_humble
 
 ## Requirements
-    ```
-    rosdep install --from-paths $OUSTER_ROS_PATH -y --ignore-src
-    ```
+```
+rosdep install --from-paths $OUSTER_ROS_PATH -y --ignore-src
+```
 
 ### Linux
 
