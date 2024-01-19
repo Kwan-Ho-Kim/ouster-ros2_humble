@@ -1,7 +1,6 @@
 # ouster-ros2_humble
 
 ## Requirements
-    required dependencies:  
     ```
     rosdep install --from-paths $OUSTER_ROS_PATH -y --ignore-src
     ```
@@ -14,7 +13,7 @@ sudo apt install -y             \
     ros-$ROS_DISTRO-tf2-eigen   \
     ros-$ROS_DISTRO-rviz2
 ```
-
+```
 sudo apt install -y         \
     build-essential         \
     libeigen3-dev           \
