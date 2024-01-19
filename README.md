@@ -108,3 +108,6 @@ ros2 service call /ouster/set_config ouster_srvs/srv/SetConfig \
 ```bash
 ros2 service call /ouster/reset std_srvs/srv/Empty
 ```
+
+
+from https://github.com/ouster-lidar/ouster-ros.git
